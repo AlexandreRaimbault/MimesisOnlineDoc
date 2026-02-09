@@ -2,5 +2,5 @@
 
 ## Mimesis Presentation
 
-todo
+**Mimesis** is a project made in collaboration with **Skyreal**
 

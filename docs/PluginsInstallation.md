@@ -4,7 +4,7 @@
 
 **Skyreal suite** provides a few plugins to customize your experiences, but we decided to create our owns to upgrade the experience, desktop or VR.
 
-Our list of plugins can be found at : 
+Our list of plugins can be found at : [https://gricad-gitlab.univ-grenoble-alpes.fr/mimesis](https://gricad-gitlab.univ-grenoble-alpes.fr/mimesis)
 
 --- 
 
@@ -32,7 +32,7 @@ When you run it, if there are no compiler errors, you will now have insisde the 
 * An installer
 * A cooked folder containing your plugin(s)
 
-### C++ Plugins
+### C++ plugins
 
 As you may know, Skyreal doesn't like C++ Plugins  
 You will need to package your project inside Unreal Engine to have a custom Skyreal version, that you can later use inside Deck, with the plugin working.
@@ -95,8 +95,8 @@ At the moment, we need to replace manually the packaged Skyreal version for each
 ## Known issues
 
 * Issue where a map not created with Deck cannot be opened by Custom Skyreal with C++ plugins
-* With Marketplace, known issue where a plugin is available only for UEEditor experience and NOT for Basic experience created with Deck
-* With UEEditor experiences, when opened, can't create files in there because filepath created by Deck is too long.
+* With Marketplace, known issue where a plugin is available only for UEEditor experience and NOT for Basic experience created with Deck -- Solved 09/Feb/2026
+* With UEEditor experiences, when opened, can't create files in there because filepath created by Deck is too long. -- Solved 09/Feb/2026
 * Deck will be replaced in Skyreal 1.22
 
 
